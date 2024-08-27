@@ -6,6 +6,7 @@ Na residência universitária da EAJ/UFRN, os estudantes frequentemente se depar
 
 ## Solução
 O projeto Campainha Inteligente visa substituir o método atual de chamar o porteiro na portaria da residência, que muitas vezes envolve barulho e demora. O sistema será composto por um sensor ultrassônico acoplado a um ESP32 que, ao detectar a aproximação de alguém, enviará uma mensagem ao porteiro, permitindo uma resposta mais rápida e silenciosa.
+
 ![image](https://github.com/user-attachments/assets/cf648a41-be4f-4a2d-a8bd-2526536841e6)
 
 ## Link para documento de requisitos
